@@ -1,6 +1,9 @@
 Pedometer
 =========
 
+  Siddharth Singh Baghel
+ 
+
 [![Build Status](https://travis-ci.org/j4velin/Pedometer.svg?branch=master)](https://travis-ci.org/j4velin/Pedometer)
 
 Lightweight pedometer app using the <b>hardware step-sensor</b> for minimal battery consumption.
